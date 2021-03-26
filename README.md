@@ -1,1 +1,2 @@
-# 利用Heuristic algo和Lagrangian Relaxation找出人員派遣的最佳解
+# 電梯派遣人員優化專案
+利用Heuristic algo和Lagrangian Relaxation找出人員派遣的最佳解
